@@ -1,3 +1,7 @@
+#
+dump
+notebooks/dirty
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
